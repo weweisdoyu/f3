@@ -2,26 +2,6 @@
   "user_id": "drama",
   "files": [
     {
-      "id": "file_1783084074711_xpjsoqhzx",
-      "original_name": "rezeki-kota-kecil-episode9.mp4",
-      "evo_data": "5spwDPF0ZjrDORYy8LFPnTaimGoyStJs6qp7",
-      "mime_type": "video/mp4",
-      "file_size": 0,
-      "file_size_formatted": "0 B",
-      "file_type": "video",
-      "uploaded_at": "2026-07-03T13:07:54.711Z"
-    },
-    {
-      "id": "file_1783084067612_v70ntspq5",
-      "original_name": "rezeki-kota-kecil-cover.jpg",
-      "evo_data": "NY3gNRhBG84LN1A3g6pCTzADsDcMHR6OhCUJ",
-      "mime_type": "image/jpeg",
-      "file_size": 0,
-      "file_size_formatted": "0 B",
-      "file_type": "image",
-      "uploaded_at": "2026-07-03T13:07:47.612Z"
-    },
-    {
       "id": "file_1783083227136_kfb3nazj6",
       "original_name": "dokter-penakluk-segalanya-episode1.mp4",
       "evo_data": "VoXMCU27im3AJv1Mjtvgmt2i21lkibcruboC",
@@ -102,16 +82,6 @@
       "uploaded_at": "2026-07-03T12:24:44.894Z"
     },
     {
-      "id": "file_1783081482614_ch689590c",
-      "original_name": "rezeki-nomplok-ayah-hebat-drama.json",
-      "evo_data": "PVNwzZAuUHRrXZyQEpuue5vdjr51NwpGRGud",
-      "mime_type": "application/json",
-      "file_size": 0,
-      "file_size_formatted": "0 B",
-      "file_type": "file",
-      "uploaded_at": "2026-07-03T12:24:42.614Z"
-    },
-    {
       "id": "file_1783081480893_4mdf2k1v8",
       "original_name": "rezeki-nomplok-ayah-hebat-episode1.mp4",
       "evo_data": "eeMEoLP4QQqRzq7oJIk5FodjQkoqjDEif2tu",
@@ -130,26 +100,6 @@
       "file_size_formatted": "0 B",
       "file_type": "image",
       "uploaded_at": "2026-07-03T12:24:35.689Z"
-    },
-    {
-      "id": "file_1783081002002_bjot7w85d",
-      "original_name": "drama.json",
-      "evo_data": "nczl6vOriqww0LDehyr9wokktZs5L7eonfoC",
-      "mime_type": "application/json",
-      "file_size": 0,
-      "file_size_formatted": "0 B",
-      "file_type": "file",
-      "uploaded_at": "2026-07-03T12:16:42.002Z"
-    },
-    {
-      "id": "file_1783080999603_2ur5sj99n",
-      "original_name": "dokter-penakluk-segalanya-drama.json",
-      "evo_data": "XdYpYYZYUmyfLRNgUfVP3BIjX5BHNsnQKr4z",
-      "mime_type": "application/json",
-      "file_size": 0,
-      "file_size_formatted": "0 B",
-      "file_type": "file",
-      "uploaded_at": "2026-07-03T12:16:39.603Z"
     },
     {
       "id": "file_1783080997668_2eosvn3hb",
@@ -172,16 +122,6 @@
       "uploaded_at": "2026-07-03T12:16:29.601Z"
     },
     {
-      "id": "file_1783080233348_plzherx9w",
-      "original_name": "rezeki-nomplok-ayah-hebat-drama.json",
-      "evo_data": "fOC8AdZf40u7REVvIxAJMtWvt7YPV2RK3Ubj",
-      "mime_type": "application/json",
-      "file_size": 0,
-      "file_size_formatted": "0 B",
-      "file_type": "file",
-      "uploaded_at": "2026-07-03T12:03:53.348Z"
-    },
-    {
       "id": "file_1783080230131_h13qvkqu7",
       "original_name": "rezeki-nomplok-ayah-hebat-cover.jpg",
       "evo_data": "S8mdEG3A39Z3Ih3MRkWDnqu3Ay85taPxOMIF",
@@ -190,16 +130,6 @@
       "file_size_formatted": "0 B",
       "file_type": "image",
       "uploaded_at": "2026-07-03T12:03:50.131Z"
-    },
-    {
-      "id": "file_1783080218768_6jeq0w00k",
-      "original_name": "rezeki-nomplok-ayah-hebat-drama.json",
-      "evo_data": "Oxy3h55hnG7Ly1BFC3WRwMqNXQ35omUVNxuU",
-      "mime_type": "application/json",
-      "file_size": 0,
-      "file_size_formatted": "0 B",
-      "file_type": "file",
-      "uploaded_at": "2026-07-03T12:03:38.768Z"
     },
     {
       "id": "file_1783080216813_7u145ej40",
@@ -220,66 +150,6 @@
       "file_size_formatted": "0 B",
       "file_type": "image",
       "uploaded_at": "2026-07-03T12:03:31.520Z"
-    },
-    {
-      "id": "file_1783079879006_52r08a4n1",
-      "original_name": "drama.json",
-      "evo_data": "vdtG4YTU3Pqj1islLrxUO7BMPcSimk5MmhZc",
-      "mime_type": "application/json",
-      "file_size": 0,
-      "file_size_formatted": "0 B",
-      "file_type": "file",
-      "uploaded_at": "2026-07-03T11:57:59.006Z"
-    },
-    {
-      "id": "file_1783079875914_lmrju9c4h",
-      "original_name": "rezeki-nomplok-ayah-hebat-drama.json",
-      "evo_data": "LAV4xUIUAx9mkau4eCS3ACeq1PrAu25BIieu",
-      "mime_type": "application/json",
-      "file_size": 0,
-      "file_size_formatted": "0 B",
-      "file_type": "file",
-      "uploaded_at": "2026-07-03T11:57:55.914Z"
-    },
-    {
-      "id": "file_1783079838557_k3h7b7q42",
-      "original_name": "drama.json",
-      "evo_data": "IxJasb123cFXOXm5h3rdswzB6FivvnGBS6EF",
-      "mime_type": "application/json",
-      "file_size": 0,
-      "file_size_formatted": "0 B",
-      "file_type": "file",
-      "uploaded_at": "2026-07-03T11:57:18.557Z"
-    },
-    {
-      "id": "file_1783079835965_if9yaiws2",
-      "original_name": "unknown-drama.json",
-      "evo_data": "boLMUsHRBaT8n8kf7K1dS1KbjQfqK95VghuF",
-      "mime_type": "application/json",
-      "file_size": 0,
-      "file_size_formatted": "0 B",
-      "file_type": "file",
-      "uploaded_at": "2026-07-03T11:57:15.965Z"
-    },
-    {
-      "id": "file_1783079813333_6yu6szxnz",
-      "original_name": "drama.json",
-      "evo_data": "dmfKagZWGGQZx7feWJ4orXCUR8rXE6HuJtUm",
-      "mime_type": "application/json",
-      "file_size": 0,
-      "file_size_formatted": "0 B",
-      "file_type": "file",
-      "uploaded_at": "2026-07-03T11:56:53.333Z"
-    },
-    {
-      "id": "file_1783079811059_ydxfsg4dk",
-      "original_name": "unknown-drama.json",
-      "evo_data": "nkY0qyLUHERecwURepAiMWvUnAOLS0gkrY2J",
-      "mime_type": "application/json",
-      "file_size": 0,
-      "file_size_formatted": "0 B",
-      "file_type": "file",
-      "uploaded_at": "2026-07-03T11:56:51.059Z"
     },
     {
       "id": "file_1780353410440",
