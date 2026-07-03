@@ -2,6 +2,16 @@
   "user_id": "drama",
   "files": [
     {
+      "id": "file_1783079838557_k3h7b7q42",
+      "original_name": "drama.json",
+      "evo_data": "IxJasb123cFXOXm5h3rdswzB6FivvnGBS6EF",
+      "mime_type": "application/json",
+      "file_size": 0,
+      "file_size_formatted": "0 B",
+      "file_type": "file",
+      "uploaded_at": "2026-07-03T11:57:18.557Z"
+    },
+    {
       "id": "file_1783079835965_if9yaiws2",
       "original_name": "unknown-drama.json",
       "evo_data": "boLMUsHRBaT8n8kf7K1dS1KbjQfqK95VghuF",
