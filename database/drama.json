@@ -2,26 +2,6 @@
   "user_id": "drama",
   "files": [
     {
-      "id": "file_1783086495702_z45msn8a1",
-      "original_name": "rezeki-kota-kecil-episode13.mp4",
-      "evo_data": "cDtQQ9EnejA12RzYMuC4aDFwubg8fyjQEjFf",
-      "mime_type": "video/mp4",
-      "file_size": 0,
-      "file_size_formatted": "0 B",
-      "file_type": "video",
-      "uploaded_at": "2026-07-03T13:48:15.702Z"
-    },
-    {
-      "id": "file_1783086392197_b9mk3cos5",
-      "original_name": "rezeki-kota-kecil-cover.jpg",
-      "evo_data": "nkQHVOwmO8IJrXcRKhjU7omPkhmyGjtH53GS",
-      "mime_type": "image/jpeg",
-      "file_size": 0,
-      "file_size_formatted": "0 B",
-      "file_type": "image",
-      "uploaded_at": "2026-07-03T13:46:32.197Z"
-    },
-    {
       "id": "file_1783085175251_5nn8gzhlr",
       "original_name": "rezeki-kota-kecil-episode12.mp4",
       "evo_data": "4t0Le8kQ4gABAChOpkRaWnQcdqJdwSQQ1NeQ",
@@ -82,56 +62,6 @@
       "uploaded_at": "2026-07-03T12:53:42.090Z"
     },
     {
-      "id": "file_1783083097817_gkvf4so69",
-      "original_name": "dokter-penakluk-segalanya-episode1.mp4",
-      "evo_data": "i8dNfsf9V1oz1ScfxVnYsaroWDIgbBLIICJi",
-      "mime_type": "video/mp4",
-      "file_size": 0,
-      "file_size_formatted": "0 B",
-      "file_type": "video",
-      "uploaded_at": "2026-07-03T12:51:37.817Z"
-    },
-    {
-      "id": "file_1783083093679_voec9x3ha",
-      "original_name": "dokter-penakluk-segalanya-cover.jpg",
-      "evo_data": "mzloURYWZk3UYwLBHP5oij8HJEKSsUErTK1H",
-      "mime_type": "image/jpeg",
-      "file_size": 0,
-      "file_size_formatted": "0 B",
-      "file_type": "image",
-      "uploaded_at": "2026-07-03T12:51:33.679Z"
-    },
-    {
-      "id": "file_1783082532353_m2v0qdkee",
-      "original_name": "dokter-penakluk-segalanya-episode1.mp4",
-      "evo_data": "GoYjqM4dbDmReLN7T09SKgCSs99PMvGgpszx",
-      "mime_type": "video/mp4",
-      "file_size": 0,
-      "file_size_formatted": "0 B",
-      "file_type": "video",
-      "uploaded_at": "2026-07-03T12:42:12.353Z"
-    },
-    {
-      "id": "file_1783082528152_kcz8woeoa",
-      "original_name": "dokter-penakluk-segalanya-cover.jpg",
-      "evo_data": "PCmMlyK77YGkcpJCAJKto7NCAPS5ExculwvG",
-      "mime_type": "image/jpeg",
-      "file_size": 0,
-      "file_size_formatted": "0 B",
-      "file_type": "image",
-      "uploaded_at": "2026-07-03T12:42:08.152Z"
-    },
-    {
-      "id": "file_1783082096797_8fuf382ca",
-      "original_name": "dokter-penakluk-segalanya-cover.jpg",
-      "evo_data": "vE5CKymMjVBrl3qEp8DsQkfPU6vt8p3Ssnq5",
-      "mime_type": "image/jpeg",
-      "file_size": 0,
-      "file_size_formatted": "0 B",
-      "file_type": "image",
-      "uploaded_at": "2026-07-03T12:34:56.797Z"
-    },
-    {
       "id": "file_1783081480893_4mdf2k1v8",
       "original_name": "rezeki-nomplok-ayah-hebat-episode1.mp4",
       "evo_data": "eeMEoLP4QQqRzq7oJIk5FodjQkoqjDEif2tu",
@@ -150,56 +80,6 @@
       "file_size_formatted": "0 B",
       "file_type": "image",
       "uploaded_at": "2026-07-03T12:24:35.689Z"
-    },
-    {
-      "id": "file_1783080997668_2eosvn3hb",
-      "original_name": "dokter-penakluk-segalanya-episode1.mp4",
-      "evo_data": "ZcJ8xFDy7Os2niFEF36itoMHtNlBgJlm8Pv3",
-      "mime_type": "video/mp4",
-      "file_size": 0,
-      "file_size_formatted": "0 B",
-      "file_type": "video",
-      "uploaded_at": "2026-07-03T12:16:37.668Z"
-    },
-    {
-      "id": "file_1783080989601_i9lsc5s2i",
-      "original_name": "dokter-penakluk-segalanya-cover.jpg",
-      "evo_data": "tko77YCO5vq7yIcQJsVajBWGEPE0wMHZmdTt",
-      "mime_type": "image/jpeg",
-      "file_size": 0,
-      "file_size_formatted": "0 B",
-      "file_type": "image",
-      "uploaded_at": "2026-07-03T12:16:29.601Z"
-    },
-    {
-      "id": "file_1783080230131_h13qvkqu7",
-      "original_name": "rezeki-nomplok-ayah-hebat-cover.jpg",
-      "evo_data": "S8mdEG3A39Z3Ih3MRkWDnqu3Ay85taPxOMIF",
-      "mime_type": "image/jpeg",
-      "file_size": 0,
-      "file_size_formatted": "0 B",
-      "file_type": "image",
-      "uploaded_at": "2026-07-03T12:03:50.131Z"
-    },
-    {
-      "id": "file_1783080216813_7u145ej40",
-      "original_name": "rezeki-nomplok-ayah-hebat-episode1.mp4",
-      "evo_data": "tcZJTVBQaU12u4tGpl9x1SobJHuw4U8NsdN1",
-      "mime_type": "video/mp4",
-      "file_size": 0,
-      "file_size_formatted": "0 B",
-      "file_type": "video",
-      "uploaded_at": "2026-07-03T12:03:36.813Z"
-    },
-    {
-      "id": "file_1783080211520_1rb95mhp0",
-      "original_name": "rezeki-nomplok-ayah-hebat-cover.jpg",
-      "evo_data": "U2B0Qw9wEnVoOCn0if5C76jdY2dEUbaRyyjZ",
-      "mime_type": "image/jpeg",
-      "file_size": 0,
-      "file_size_formatted": "0 B",
-      "file_type": "image",
-      "uploaded_at": "2026-07-03T12:03:31.520Z"
     },
     {
       "id": "file_1780353410440",
@@ -536,13 +416,6 @@
       "evo_data": "4rb37yUWh95hGy1mmzTat8OEMpnCnApPRBJj",
       "mime_type": "application/octet-stream",
       "uploaded_at": "2026-05-31T22:17:30.396Z"
-    },
-    {
-      "id": "file_1780265842531",
-      "original_name": "cinta-sang-amnesia-episode-31.mp4",
-      "evo_data": "9A4oPAXf5J4ZvMvLmgkEXuMFhLKEriymGNLg",
-      "mime_type": "application/octet-stream",
-      "uploaded_at": "2026-05-31T22:17:22.531Z"
     },
     {
       "id": "file_1780265835272",
@@ -1217,7 +1090,7 @@
       "uploaded_at": "2026-05-31T19:23:23.349Z"
     },
     {
-      "id": "file_1780255395446",
+      "id": "file_1780255495446",
       "original_name": "wanita-keren-beruntung-episode-32.mp4",
       "evo_data": "8K7fStd6FOsEYEbT1Y9UVNUmBxG9lE53uHIl",
       "mime_type": "application/octet-stream",
