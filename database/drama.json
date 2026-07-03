@@ -2,66 +2,6 @@
   "user_id": "drama",
   "files": [
     {
-      "id": "file_1783091565929_kc8if5so2",
-      "original_name": "rezeki-kota-kecil-episode1.mp4",
-      "evo_data": "uVkd90W5XHxiZgjiXMeAynlznuqsEpiS8AGA",
-      "mime_type": "video/mp4",
-      "file_size": 0,
-      "file_size_formatted": "0 B",
-      "file_type": "video",
-      "uploaded_at": "2026-07-03T15:12:45.929Z"
-    },
-    {
-      "id": "file_1783091527660_4ncj212d7",
-      "original_name": "akulah-cinta-pertama-episode1.mp4",
-      "evo_data": "6AAAjrhDJhW5Ql3JMtXfMthxFjgXS4CRRJMa",
-      "mime_type": "video/mp4",
-      "file_size": 0,
-      "file_size_formatted": "0 B",
-      "file_type": "video",
-      "uploaded_at": "2026-07-03T15:12:07.660Z"
-    },
-    {
-      "id": "file_1783091508850_a8sae1rux",
-      "original_name": "akulah-cinta-pertama-cover.jpg",
-      "evo_data": "PRGz8L3JLUsKX5OF7ux3uXkY3hs7Wto6Nulo",
-      "mime_type": "image/jpeg",
-      "file_size": 0,
-      "file_size_formatted": "0 B",
-      "file_type": "image",
-      "uploaded_at": "2026-07-03T15:11:48.850Z"
-    },
-    {
-      "id": "file_1783091075444_sbdtpwepa",
-      "original_name": "rezeki-kota-kecil-cover.jpg",
-      "evo_data": "videLNNID3YJ4iY4F7m1JQq9lEJeayOSjCmZ",
-      "mime_type": "image/jpeg",
-      "file_size": 0,
-      "file_size_formatted": "0 B",
-      "file_type": "image",
-      "uploaded_at": "2026-07-03T15:04:35.444Z"
-    },
-    {
-      "id": "file_1783089788939_0fq6rhzc5",
-      "original_name": "rezeki-kota-kecil-episode15.mp4",
-      "evo_data": "JqwEd7vhgf4foRUlhqvemvmwATU32gvR4JC0",
-      "mime_type": "video/mp4",
-      "file_size": 0,
-      "file_size_formatted": "0 B",
-      "file_type": "video",
-      "uploaded_at": "2026-07-03T14:43:08.939Z"
-    },
-    {
-      "id": "file_1783089729489_mealpv6qs",
-      "original_name": "rezeki-kota-kecil-episode14.mp4",
-      "evo_data": "w22V3NARRUbjRgjqIcDH8DXTYsDp5D8tzuDU",
-      "mime_type": "video/mp4",
-      "file_size": 0,
-      "file_size_formatted": "0 B",
-      "file_type": "video",
-      "uploaded_at": "2026-07-03T14:42:09.489Z"
-    },
-    {
       "id": "file_1783085175251_5nn8gzhlr",
       "original_name": "rezeki-kota-kecil-episode12.mp4",
       "evo_data": "4t0Le8kQ4gABAChOpkRaWnQcdqJdwSQQ1NeQ",
