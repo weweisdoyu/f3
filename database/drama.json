@@ -2,6 +2,16 @@
   "user_id": "drama",
   "files": [
     {
+      "id": "file_1783082096797_8fuf382ca",
+      "original_name": "dokter-penakluk-segalanya-cover.jpg",
+      "evo_data": "vE5CKymMjVBrl3qEp8DsQkfPU6vt8p3Ssnq5",
+      "mime_type": "image/jpeg",
+      "file_size": 0,
+      "file_size_formatted": "0 B",
+      "file_type": "image",
+      "uploaded_at": "2026-07-03T12:34:56.797Z"
+    },
+    {
       "id": "file_1783081484894_1vgnsxu7d",
       "original_name": "drama.json",
       "evo_data": "mlaUvpBa5IGgmnWNsO56BzMtsb2WtgZAsfdz",
