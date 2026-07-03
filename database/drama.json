@@ -1,16 +1,6 @@
 {
   "user_id": "drama",
-  "files": [
-    {
-      "id": "file_1783089398541_0r1f08mul",
-      "original_name": "rezeki-kota-kecil-cover.jpg",
-      "evo_data": "cdedihcXSw8p8uXZvSLrU5LwNEukvRnlA7zO",
-      "mime_type": "image/jpeg",
-      "file_size": 0,
-      "file_size_formatted": "0 B",
-      "file_type": "image",
-      "uploaded_at": "2026-07-03T14:36:38.541Z"
-    },
+  "files":  [
     {
       "id": "file_1783085175251_5nn8gzhlr",
       "original_name": "rezeki-kota-kecil-episode12.mp4",
