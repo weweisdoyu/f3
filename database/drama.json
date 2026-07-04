@@ -2,16 +2,6 @@
   "user_id": "drama",
   "files": [
     {
-      "id": "file_1783105922928_gpdwh9ujx",
-      "original_name": "rezeki-kota-kecil-cover.jpg",
-      "evo_data": "0Mw2DFwIE44r02G1a1EHVhLnxCi3wQURS8dD",
-      "mime_type": "image/jpeg",
-      "file_size": 0,
-      "file_size_formatted": "0 B",
-      "file_type": "image",
-      "uploaded_at": "2026-07-03T19:12:02.928Z"
-    },
-    {
       "id": "file_1783105300942_zehu0zkiy",
       "original_name": "cinta-terlarang-episode1.mp4",
       "evo_data": "0o8xgbKCWBNefXsRlVhrI6SCuCdN9AGPhMoS",
@@ -71,16 +61,7 @@
       "file_type": "video",
       "uploaded_at": "2026-07-03T18:27:04.931Z"
     },
-    {
-      "id": "file_1783103219013_ej6iuswzi",
-      "original_name": "akulah-cinta-pertama-cover.jpg",
-      "evo_data": "7CzPYLLgWTpuelru60DzoyCuBAW6OwIbzxEo",
-      "mime_type": "image/jpeg",
-      "file_size": 0,
-      "file_size_formatted": "0 B",
-      "file_type": "image",
-      "uploaded_at": "2026-07-03T18:26:59.013Z"
-    },
+    
     {
       "id": "file_1783103201402_zfyi81lp4",
       "original_name": "rezeki-kota-kecil-episode2.mp4",
